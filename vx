@@ -1,3 +1,4 @@
+buildpacks:set https://github.com/heroku/heroku-buildpack-nodejs#v83 -a my-app
 const Discord = require("discord.js");
 const client = new Discord.Client();
 
